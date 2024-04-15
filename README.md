@@ -8,6 +8,7 @@ Alt. link: https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugin
 
 About the ships:
 
+
 CARGO DRONE - 
 An EV Nova classic that I always felt was missing from the game. Unarmed, cheap, and fast; they're designed to be able to keep up with (Heavy) Shuttles and be easy to keep buying more of in the early game as you can afford them to exponentially grow your profits on a small scale, but watch out for your piracy threat rating if you spam them. Later on, they can also be useful in conjunction with Mining Drones and the rest of the ships in this plugin to collect flotsam and such.
 
