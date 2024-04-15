@@ -5,11 +5,6 @@ ESDD link: https://github.com/starmlerp/ESDefenseDronePlugin
 Alt. link: https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#defense-drone-plugin
 
 
-![cargo drone thumbnail](https://github.com/43897689431805741092/RW-Ships/assets/69867672/ee3009d9-d2bf-4ed7-88cd-a5087d3cc25c)
-![mudrock thumbnail](https://github.com/43897689431805741092/RW-Ships/assets/69867672/c31025b4-bc9e-40cf-88dc-4b25404da990)
-![gemstone thumbnail](https://github.com/43897689431805741092/RW-Ships/assets/69867672/713d6662-899f-4dc0-bb2f-08b460abeaef)
-![deepvale thumbnail](https://github.com/43897689431805741092/RW-Ships/assets/69867672/734b88c0-2782-4ba4-8ec1-d13146c0b49d)
-
 
 About the ships:
 
