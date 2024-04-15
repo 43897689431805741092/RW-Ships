@@ -1,6 +1,7 @@
 A small collection of custom ships: one drone and three freighter/utility ships that can carry varying amounts of drones. If the ES Defense Drone Plugin is also installed, non-miner merchants will be loaded with Defense Drones.
 
 ESDD link: https://github.com/starmlerp/ESDefenseDronePlugin
+
 Alt. link: https://github.com/Hecter94/EndlessSky-PluginArchive/blob/main/plugins.md#defense-drone-plugin
 
 
