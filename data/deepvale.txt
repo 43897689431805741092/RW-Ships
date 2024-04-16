@@ -104,7 +104,7 @@ ship "Deepvale"
 	explode "small explosion" 10
 	explode "medium explosion" 25
 	explode "large explosion" 50
-	explode "huge explosion" 25
+	explode "huge explosion" 20
 	"final explode" "final explosion large"
 	
 	description "A modern heavy mining ship designed to work in tandem with Mining Drones. Being more of a mobile base than a conventional mining ship, standard equipment includes a long-range asteroid scanning suite and Tractor Beams fitted to each cargo bay. Not a common sight due to its unwieldiness; it is most typically found working dense fields."

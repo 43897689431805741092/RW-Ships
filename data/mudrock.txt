@@ -273,6 +273,8 @@ fleet "Small Northern Merchants"
 		"Defense Drone"
 		"Hauler"
 
+
+
 fleet "Large Northern Merchants"
 	add variant 5
 		"Behemoth"
@@ -323,6 +325,8 @@ fleet "Large Northern Merchants"
 		"Defense Drone"
 		"Scout"
 
+
+
 fleet "Small Human Merchants (Hai)"
 	add variant 4
 		"Mudrock"
@@ -347,6 +351,8 @@ fleet "Small Human Merchants (Hai)"
 		"Mudrock (Hai)" 2
 		"Defense Drone" 2
 		"Hauler III (Hai)"
+
+
 
 fleet "Large Human Merchants (Hai)"
 	add variant 8
