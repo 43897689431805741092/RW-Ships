@@ -19,7 +19,7 @@ ship "Deepvale"
 		"mass" 850
 		"drag" 16
 		"heat dissipation" .4
-		"fuel capacity" 900
+		"fuel capacity" 700
 		"cargo space" 450
 		"outfit space" 620
 		"weapon capacity" 280

@@ -19,7 +19,7 @@ ship "Gemstone"
 		"mass" 180
 		"drag" 4.3
 		"heat dissipation" .65
-		"fuel capacity" 600
+		"fuel capacity" 500
 		"cargo space" 140
 		"outfit space" 330
 		"weapon capacity" 120
