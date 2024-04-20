@@ -107,7 +107,7 @@ ship "Deepvale"
 	explode "huge explosion" 20
 	"final explode" "final explosion large"
 	
-	description "A modern heavy mining ship designed to work in tandem with Mining Drones. Being more of a mobile base than a conventional mining ship, standard equipment includes a long-range asteroid scanning suite and tractor beams fitted to each cargo bay. Not a common sight due to its unwieldiness; it is most typically found working dense fields."
+	description "A modern heavy mining ship designed to work in tandem with Mining Drones. Being more of a mobile base than a conventional mining ship, standard equipment includes a long-range asteroid scanning suite and Tractor Beams fitted to each cargo bay. Not a common sight due to its unwieldiness; it is most typically found working dense fields."
 
 
 
