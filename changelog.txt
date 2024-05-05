@@ -1,7 +1,7 @@
 ﻿v1.01
 - New ship: Packet Liner
 
-v1.02 | Note: Message is too long. Full changelog on Github.
+v1.02
 - New ship: Thunderer. A high-speed ship good for a lot of things since it's basically a medium warship with the weapon and engine capacities swapped. Weapon selection is limited by being turret-only, but watch out for the pirate gatling variant!
 - Added an Auxiliary-style variant (i.e. one with its own graphics and different base stats) of the Cargo Drone that replaces its containers with with fuel tanks. Currently its usefulness is rather limited by the fact that it can't be made to refuel your other ships (at least as far as I know), only undock/redock to restock its own carrier, and you can't decide what ships carry what drones (again as far as I know) so there's no guarantee that your fuel drones will be distributed evenly and be able to refuel all your ships. Handy for the player to have one to refuel while exploring, at least, or do something funny like have afterburner-only propulsion.
 - Added an Auxiliary-style variant of the Mudrock with its containers removed and replaced with 12(!) extra drone bays. A semi-easter-egg that can't be purchased, but appears as a rare spawn among human miners so it can be captured.
