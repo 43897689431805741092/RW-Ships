@@ -1,6 +1,3 @@
-shipyard "Pickerberry Basics"
-	"Gemstone (Hyper Blaster)"
-
 ship "Gemstone"
 	sprite "ship/gemstone"
 	thumbnail "thumbnail/gemstone thumbnail"
