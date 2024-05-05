@@ -10,7 +10,8 @@ v1.02
 - Reduced Gemstone fuel further (600→500→400).*
 - Reduced Cargo Drone death explosion amount to match vanilla ships of its scale.
 - Adjusted Deepvale description (reference to proper-noun "Mining Drones" into generic "drones") and model details (bridge windows, dorsal turret mount size, engine symmetry).
-- Added Gemstone variants, along with Mining Drone variants to go with it, mainly used by pirates. The torpedo one's pretty cool since the drones will actually dock to re-arm; not sure this is a feature seen on any vanilla fighters/drones since they generally have energy-based guns installed as well.- Re-rendered Gemstone with SSAO and made its lower section larger to be a bit more indicative of its stats and how much it slows down when it's full (it should be like a pelican with a full beak); could use more work though.
+- Added Gemstone variants, along with Mining Drone variants to go with it, mainly used by pirates. The torpedo one's pretty cool since the drones will actually dock to re-arm; not sure this is a feature seen on any vanilla fighters/drones since they generally have energy-based guns installed as well.
+- Re-rendered Gemstone with SSAO and made its lower section larger to be a bit more indicative of its stats and how much it slows down when it's full (it should be like a pelican with a full beak); could use more work though.
 - Added reverse engine effects to Gemstone and adjusted same effects of Mudrock to match the outward shutter-vents style of the newly-added Thunderer.*
 - Fixed Mudrock model shading toward rear end (Deepvale had the same issue before).
 - Fleet adjustments; mainly Deepvale & Mudrock less common in the Core region.
