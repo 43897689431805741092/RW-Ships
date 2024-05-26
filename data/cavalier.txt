@@ -13,7 +13,7 @@ ship "Cavalier"
 		"heat dissipation" .65
 		"fuel capacity" 700
 		"cargo space" 30
-		"outfit space" 310
+		"outfit space" 300
 		"weapon capacity" 125 # 25 per gun port if no turrets fitted.
 		"engine capacity" 90
 		weapon
