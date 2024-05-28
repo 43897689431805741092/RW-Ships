@@ -159,6 +159,24 @@ ship "Lancier" "Lancier (Nuclear)" # Currently unused. Maybe a mission or unique
 
 # Rare in the wild. Mainly reserved for pirate raids where they would realistically bring ships like this to threaten a convoy.
 
+fleet "Small Free Worlds"
+	add variant 4
+		"Lancier (Meteor Shower)"
+		"Sparrow" 2
+
+fleet "Large Free Worlds"
+	add variant 2
+		"Lancier" 2
+		"Sparrow" 4
+	add variant 2
+		"Bastion (Heavy)"
+		"Lancier" 2
+	add variant 2
+		"Falcon (Heavy)"
+		"Lancier" 2
+
+
+
 fleet "Small Southern Pirates"
 	add variant 1
 		"Lancier (Meteor Shower)"
