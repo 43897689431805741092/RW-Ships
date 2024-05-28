@@ -8,9 +8,9 @@ ship "Packet Liner"
 		"hull" 3000
 		"required crew" 19
 		"bunks" 73 # 50 passengers with stock outfits
-		"mass" 355
-		"drag" 7.8
-		"heat dissipation" .55
+		"mass" 730             # 355 before v10.7
+		"drag" 10.5            # 7.8 before v10.7
+		"heat dissipation" .37 # .55 before v10.7
 		"fuel capacity" 600
 		"cargo space" 180
 		"outfit space" 430

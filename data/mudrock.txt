@@ -8,9 +8,9 @@ ship "Mudrock"
 		"hull" 9800
 		"required crew" 22
 		"bunks" 34
-		"mass" 680
-		"drag" 15.8
-		"heat dissipation" .45
+		"mass" 1360            # 680 before v10.7
+		"drag" 23.7            # 15.8 before v10.7
+		"heat dissipation" .29 # .45 before v10.7
 		"fuel capacity" 600
 		"cargo space" 300
 		"outfit space" 600

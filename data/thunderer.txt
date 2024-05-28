@@ -8,9 +8,9 @@ ship "Thunderer"
 		"hull" 5800
 		"required crew" 14
 		"bunks" 24
-		"mass" 440
-		"drag" 9.6
-		"heat dissipation" .55
+		"mass" 970             # 440 before v10.7
+		"drag" 14.4            # 9.6 before v10.7
+		"heat dissipation" .34 # .55 before v10.7
 		"fuel capacity" 500
 		"cargo space" 220
 		"outfit space" 440
