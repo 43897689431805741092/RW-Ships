@@ -10,9 +10,9 @@ ship "Lancier"
 		"hull" 1400
 		"required crew" 4
 		"bunks" 6
-		"mass" 240
-		"drag" 4.4
-		"heat dissipation" .5
+		"mass" 340             # 240 before v10.7
+		"drag" 5.5             # 4.4 before v10.7
+		"heat dissipation" .42 # .5 before v10.7
 		"fuel capacity" 400
 		"cargo space" 25
 		"outfit space" 280

@@ -8,9 +8,9 @@ ship "Deepvale"
 		"hull" 11000
 		"required crew" 28
 		"bunks" 48
-		"mass" 850
-		"drag" 16
-		"heat dissipation" .4
+		"mass" 1700            # 850 before v10.7
+		"drag" 24              # 16 before v10.7
+		"heat dissipation" .25 # .4 before v10.7
 		"fuel capacity" 700
 		"cargo space" 450
 		"outfit space" 620

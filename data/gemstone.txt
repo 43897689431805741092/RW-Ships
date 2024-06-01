@@ -8,9 +8,9 @@ ship "Gemstone"
 		"hull" 3600
 		"required crew" 6
 		"bunks" 12
-		"mass" 180
-		"drag" 4.3
-		"heat dissipation" .65
+		"mass" 450             # 180 before v10.7
+		"drag" 6.45            # 4.3 before v10.7
+		"heat dissipation" .42 # .65 before v10.7
 		"fuel capacity" 400
 		"cargo space" 140
 		"outfit space" 330

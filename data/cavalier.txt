@@ -8,9 +8,9 @@ ship "Cavalier"
 		"hull" 3000
 		"required crew" 8
 		"bunks" 14
-		"mass" 190
-		"drag" 3.3
-		"heat dissipation" .65
+		"mass" 330             # 190 before v10.7
+		"drag" 4.95            # 3.3 before v10.7
+		"heat dissipation" .51 # .65 before v10.7
 		"fuel capacity" 700
 		"cargo space" 30
 		"outfit space" 300

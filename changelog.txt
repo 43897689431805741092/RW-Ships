@@ -23,3 +23,6 @@ v1.03
 
 v1.04
 - New ship: Lancier torpedo boat.
+
+v1.05
+- Updated mass/drag/heat dissipation values for game version 0.10.8.
